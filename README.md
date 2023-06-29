@@ -1,9 +1,20 @@
 ### Hi there 👋
 
-<!--
-**JonathanKoerber/JonathanKoerber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+I'm thrilled to connect with you and discuss your technology needs. As a dedicated student pursuing a Master's degree in Computer Science, I have a natural curiosity for understanding systems. My focus lies in delving into the "why," "what," and "who" aspects, and then devising a comprehensive plan for their implementation.
+
+I strongly believe in taking a rigorous approach throughout all stages of development. By doing so, I can ensure the creation of a versatile product that precisely meets the unique requirements of my clients. I am committed to delivering exceptional results by leveraging my technical skills, analytical mindset, and problem-solving abilities.
+
+I am passionate about exploring emerging technologies and staying up-to-date with the latest industry trends. This allows me to constantly broaden my knowledge and apply innovative solutions to real-world challenges. Collaboration and effective communication are vital to me, as I thrive in team environments where ideas are shared and refined.
+
+Let's connect and discuss how I can contribute to your technology initiatives. I'm eager to learn from your expertise and work together to drive meaningful progress in the ever-evolving world of computer science.
+
+Feel free to reach out, and let's embark on this exciting journey together!
+
+Best regards,
+
+Jonathan Koerber
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
