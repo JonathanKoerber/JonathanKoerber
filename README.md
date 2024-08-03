@@ -12,7 +12,7 @@ Let's connect and discuss how I can contribute to your technology initiatives. I
 
 Feel free to reach out, and let's embark on this exciting journey together!
 
-Best regards,
+Cheers,
 
 Jonathan Koerber
 
